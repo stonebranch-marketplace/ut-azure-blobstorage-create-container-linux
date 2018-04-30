@@ -75,11 +75,11 @@ For the set-up you need:
 The following describes the installation steps:
 
 **1.	Install Python 2.7.x or 3.6.x for Linux on the Universal Controller server or any Linux Server running a Universal Agent.**
-Official Download link: 17TUhttps://www.python.org/downloads/U17T
+Official Download link: https://www.python.org/downloads/U17T
 
 Note: In most cases python is already available on Linux. Check availability with: python -V
 
-**2.	17TAdd the azure-storage-blob and azure-storage-logging modules to your python installation**
+**2.	Add the azure-storage-blob and azure-storage-logging modules to your python installation**
 
 In a command shell run as root or sudo:
 
